@@ -1,5 +1,6 @@
-import { useMetaMask } from './hooks';
+import { useMetaMask, useOpenSea } from './hooks';
 
 export {
     useMetaMask,
+    useOpenSea,
 }
